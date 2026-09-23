@@ -1,0 +1,8 @@
+{
+  "name": "NexusNet 人脈路徑導航",
+  "description": "基於人際六度分隔理論，透過自然語言搜尋目標人脈、探索最短引薦路徑與破冰關係圖譜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
